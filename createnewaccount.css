@@ -1,0 +1,198 @@
+*{
+    font-family: "Faculty Glyphic", sans-serif; 
+}
+
+.one{
+    color: #0866ff;
+    font-size: 30px;
+    margin-top: 0%;
+
+}
+
+.whitebox{
+    background-color: white;
+    box-shadow: 1px 2px 3px gray;
+border: 1px solid white;
+border-style: none;
+border-radius: 8px;
+margin-left: 31%;
+margin-right: 32%;
+}
+
+.firstname{
+    width: 220px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #d8dadc;
+    padding: 1%;
+    padding-left: 5%;
+}
+
+.surname{
+    width: 220px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #d8dadc;
+    padding: 1%;
+    padding-left: 5%;
+}
+
+#day{
+    width: 145px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #d8dadc;
+
+}
+
+#month{
+    width: 145px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #d8dadc;
+       
+}
+
+#year{
+    width: 145px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #d8dadc;
+       
+}
+
+
+
+
+.female{
+    width: 80px;
+    height: 10px;
+    
+}
+
+.femalebox{
+    width: 145px;
+    height: 20px;
+    border-radius: 5px;
+    border: 1px solid #d8dadc;
+    padding: 1%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    
+}
+
+.male{
+    width: 80px;
+    height: 10px;
+}
+
+.malebox{
+    width: 145px;
+    height: 20px;
+    border-radius: 5px;
+    border: 1px solid #d8dadc;
+    padding: 1%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+   
+
+}
+
+.custom{
+    width: 80px;
+    height: 10px;
+    
+}
+
+.custombox{
+    width: 145px;
+    height: 20px;
+    border-radius: 5px;
+    border: 1px solid #d8dadc;
+    padding: 1%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+   
+}
+
+.emailinput{
+    width: 450px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #d8dadc;
+    padding: 1%;
+    padding-left: 5%;
+}
+
+.newpasswordinput{
+    width: 450px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #d8dadc;
+    padding: 1%;
+    padding-left: 5%;
+}
+
+.para1{
+    color: gray;
+    font-size: small;
+}
+
+.para2{
+    color: gray;
+    font-size: small;
+    
+}
+
+.signupbutton{
+    background-color: #42b72a;
+    color: white;
+    width: 200px;
+    height: 45px;
+    border-radius: 5px;
+    border-style: none;
+    font-size: larger;
+    font-weight: bold;
+    padding:2%;
+}
+
+.signupbutton:hover{
+    background-color: #317323;
+}
+
+.alreadyhaveanaccount{
+    font-size: large;
+    font-weight: bold;
+    color: #0866ff;
+    
+    text-decoration: none;
+}
+
+.alreadyhaveanaccount:hover{
+    text-decoration: underline;
+}
+
+.lang{
+    background-color: white;
+    color: gray;
+    word-spacing: 0.8cm;
+    margin-top: 8%;
+    margin-right: 0%;
+    margin-left: 0%;
+    margin-bottom: 0%;
+    padding: 2%;
+    font-size: smaller;
+    text-align: justify;
+   
+    
+}
+
+.lang a{
+    color: gray;
+    text-decoration: none;
+    
+}
+
+.lang a:hover{
+    text-decoration: underline;
+}
